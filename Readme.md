@@ -1,0 +1,1 @@
+Typing game linit Using Java script
